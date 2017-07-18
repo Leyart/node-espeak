@@ -25,7 +25,7 @@
 			],
 			"sources" : [
 				#"espeak/src/compiledata.cpp",
-				"espeak/src/fifo.cpp",
+				#"espeak/src/fifo.cpp",
 				"espeak/src/speak.cpp",
 				#"espeak/src/spectseq.cpp",
 				"espeak/src/synth_mbrola.cpp",
