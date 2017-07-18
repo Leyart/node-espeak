@@ -5,9 +5,6 @@
   "main": "index.js",
   "author": "Frederick Gnodtke",
   "license": "GPL",
-  "os": [
-    "linux"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Prior99/node-espeak"
