@@ -22,6 +22,6 @@
   },
   "scripts": {
     "preinstall": "rm -Rf deps/espeak; git clone https://github.com/rhdunn/espeak.git deps/espeak",
-    "install": "node-gyp rebuild"
+    "install": "node-gyp configure; node-gyp build;"
   }
 }
